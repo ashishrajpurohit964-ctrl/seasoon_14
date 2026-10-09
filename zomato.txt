@@ -1,0 +1,61 @@
+restaurant_id,restaurant_name,city,average_cost_for_two,user_rating,cuisine,votes,has_table_booking
+1,Domino's Pizza,Bangalore,400,3.8,Pizza,1200,Yes
+2,Paradise Biryani,Hyderabad,800,4.3,Biryani,5400,Yes
+3,Bukhara,Delhi,3500,4.7,Mughlai,2100,Yes
+4,Gajalee,Mumbai,1200,4.1,Seafood,980,Yes
+5,Meghana Foods,Bangalore,600,4.4,Biryani,3200,Yes
+6,Karim's,Delhi,900,4.0,Mughlai,2800,No
+7,Britannia & Co,Mumbai,1500,4.5,Parsi,1100,Yes
+8,Ohri's Banjara,Hyderabad,1100,4.0,Multi-cuisine,850,Yes
+9,Toit,Bangalore,1800,4.6,Brewery,2300,Yes
+10,Dum Pukht,Delhi,3000,4.8,Awadhi,1500,Yes
+11,Leopold Cafe,Mumbai,1300,4.2,Continental,3100,Yes
+12,Chutneys,Hyderabad,500,4.1,South Indian,2600,No
+13,Nagarjuna,Bangalore,700,4.2,Andhra,1900,Yes
+14,Indian Accent,Delhi,4000,4.9,Modern Indian,1800,Yes
+15,Trishna,Mumbai,2000,4.6,Seafood,1400,Yes
+16,Absolute Barbecues,Hyderabad,1300,4.3,BBQ,2200,Yes
+17,Vidyarthi Bhavan,Bangalore,250,4.5,South Indian,4100,No
+18,Karim Hotel,Delhi,600,3.9,Mughlai,2500,No
+19,Ashok Vada Pav,Mumbai,200,4.0,Street Food,3800,No
+20,Shah Ghouse,Hyderabad,600,4.2,Biryani,2900,Yes
+21,MTR,Bangalore,500,4.4,South Indian,3500,No
+22,Sita Ram Diwan Chand,Delhi,300,4.3,North Indian,4200,No
+23,Bademiya,Mumbai,800,4.0,Mughlai,2700,Yes
+24,Pista House,Hyderabad,700,4.0,Biryani,2400,Yes
+25,The Only Place,Bangalore,1500,4.3,Continental,900,Yes
+26,Dakshin,Delhi,2200,4.6,South Indian,1100,Yes
+27,Gajalee Coastal,Mumbai,1800,4.3,Seafood,750,Yes
+28,Bawarchi,Hyderabad,750,4.3,Biryani,3600,Yes
+29,Corner House,Bangalore,400,4.2,Ice Cream,2800,No
+30,Nizam's Kathi,Delhi,700,3.8,Mughlai,2000,No
+31,Cafe Mondegar,Mumbai,1100,4.1,Continental,1600,Yes
+32,Hotel Shadab,Hyderabad,700,4.1,Hyderabadi,3100,Yes
+33,Koshy's,Bangalore,800,4.0,Cafe,1500,No
+34,Big Chill,Delhi,1400,4.5,Italian,3400,Yes
+35,Prithvi Cafe,Mumbai,900,4.3,Cafe,1800,No
+36,Sarvi,Hyderabad,650,3.9,Biryani,1300,No
+37,Hari Super Sandwich,Bangalore,300,4.1,Fast Food,2100,No
+38,Khan Chacha,Delhi,500,4.2,Mughlai,3300,No
+39,Elco Pani Puri,Mumbai,600,4.0,Street Food,2900,No
+40,Niagra,Hyderabad,850,4.0,Biryani,1700,Yes
+41,The Fatty Bao,Bangalore,1600,4.4,Asian,800,Yes
+42,Wasabi by Morimoto,Delhi,4500,4.8,Japanese,600,Yes
+43,Pali Village Cafe,Mumbai,1200,4.2,Cafe,1100,Yes
+44,Exotica,Hyderabad,2000,4.2,Continental,700,Yes
+45,Smoke House Deli,Bangalore,1400,4.3,Italian,1600,Yes
+46,Berco's,Delhi,1000,4.0,Chinese,1900,Yes
+47,The Table,Mumbai,2500,4.6,Continental,900,Yes
+48,Chili's,Hyderabad,1200,4.1,American,950,Yes
+49,China Pearl,Bangalore,900,3.9,Chinese,1400,Yes
+50,Karol Bagh Famous,Delhi,400,3.7,Street Food,2500,No
+51,Aaswad,Mumbai,700,4.2,Maharashtrian,2000,No
+52,Almond House,Hyderabad,600,4.3,Sweets,1800,No
+53,Shanti Sagar,Bangalore,350,4.0,South Indian,2200,No
+54,Natraj,Delhi,800,4.1,North Indian,1700,No
+55,Britannia Cafe,Mumbai,1000,4.3,Parsi,600,No
+56,Alpha Hotel,Hyderabad,500,3.8,Biryani,2100,No
+57,The Black Pearl,Bangalore,1300,4.1,BBQ,1300,Yes
+58,YWCA,Delhi,600,3.9,North Indian,900,No
+59,Kyani & Co,Mumbai,500,4.4,Irani,2400,No
+60,Cafe Bahar,Hyderabad,650,4.2,Hyderabadi,3000,No

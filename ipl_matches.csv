@@ -1,0 +1,13 @@
+match_id,season,date,team1,team2,venue,total_runs,total_wickets,winner,margin
+1,2024,2024-03-22,CSK,RCB,Chennai,205,8,CSK,6 wickets
+2,2024,2024-03-23,PBKS,DC,Mohali,178,6,PBKS,4 wickets
+3,2024,2024-03-23,KKR,SRH,Kolkata,212,9,KKR,4 runs
+4,2024,2024-03-24,RR,LSG,Jaipur,165,7,RR,20 runs
+5,2024,2024-03-24,GT,MI,Ahmedabad,189,5,GT,6 runs
+6,2024,2024-03-25,RCB,PBKS,Bengaluru,198,8,RCB,4 wickets
+7,2024,2024-03-26,CSK,GT,Chennai,225,4,CSK,63 runs
+8,2024,2024-03-27,SRH,MI,Hyderabad,142,10,SRH,31 runs
+9,2024,2024-03-28,RR,DC,Jaipur,176,6,RR,12 runs
+10,2024,2024-03-29,RCB,KKR,Bengaluru,201,7,KKR,7 wickets
+11,2025,2025-03-22,KKR,RCB,Kolkata,190,9,RCB,6 runs
+12,2025,2025-06-03,RCB,PBKS,Ahmedabad,374,16,RCB,6 runs

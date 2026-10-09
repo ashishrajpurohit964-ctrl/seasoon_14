@@ -1,0 +1,50 @@
+song_id,song_name,artist,danceability,energy,valence,popularity
+1,Blinding Lights,The Weeknd,0.51,0.73,0.33,90
+2,As It Was,Harry Styles,0.52,0.62,0.66,91
+3,Levitating,Dua Lipa,0.70,0.83,0.91,89
+4,Stay,The Kid LAROI,0.59,0.62,0.48,88
+5,Good 4 U,Olivia Rodrigo,0.56,0.72,0.56,90
+6,Heat Waves,Glass Animals,0.76,0.61,0.54,88
+7,Die With A Smile,Lady Gaga,0.48,0.62,0.30,92
+8,BIRDS OF A FEATHER,Billie Eilish,0.62,0.49,0.34,95
+9,Ordinary,Alex Warren,0.51,0.66,0.40,93
+10,Sweater Weather,The Neighbourhood,0.61,0.40,0.39,87
+11,Shape of You,Ed Sheeran,0.83,0.65,0.93,85
+12,Starboy,The Weeknd,0.68,0.59,0.48,84
+13,Sunflower,Post Malone,0.76,0.48,0.91,83
+14,Perfect,Ed Sheeran,0.60,0.44,0.16,82
+15,Someone You Loved,Lewis Capaldi,0.50,0.40,0.44,82
+16,DtMF,Bad Bunny,0.70,0.75,0.60,96
+17,Beauty And A Beat,Justin Bieber,0.64,0.75,0.81,80
+18,Iris,Goo Goo Dolls,0.31,0.48,0.16,88
+19,Wonderwall,Oasis,0.40,0.66,0.47,85
+20,Billie Jean,Michael Jackson,0.92,0.67,0.78,84
+21,Yellow,Coldplay,0.42,0.48,0.29,86
+22,Riptide,Vance Joy,0.54,0.39,0.75,79
+23,Mr Brightside,The Killers,0.50,0.89,0.22,83
+24,Creep,Radiohead,0.36,0.36,0.10,81
+25,Sailor Song,Gigi Perez,0.55,0.55,0.23,91
+26,End of Beginning,Djo,0.58,0.65,0.49,90
+27,Love Me Not,Ravyn Lenae,0.75,0.61,0.63,89
+28,SWIM,BTS,0.68,0.82,0.55,88
+29,The Fate of Ophelia,Taylor Swift,0.58,0.71,0.41,94
+30,Earrings,Malcolm Todd,0.62,0.58,0.42,87
+31,Stupid Song,Olivia Rodrigo,0.64,0.66,0.59,82
+32,Training Season,Dua Lipa,0.71,0.79,0.74,84
+33,So Easy,Olivia Dean,0.69,0.59,0.88,83
+34,Sure Thing,Miguel,0.60,0.43,0.49,84
+35,Man I Need,Olivia Dean,0.70,0.67,0.93,86
+36,Jamaican Bam Bam,HUGEL,0.85,0.82,0.80,81
+37,Beat It,Michael Jackson,0.82,0.83,0.81,80
+38,Raindance,Dave,0.55,0.60,0.33,79
+39,Sunflower Spiderverse,Post Malone,0.75,0.52,0.91,78
+40,Yellow, Coldplay,0.43,0.49,0.30,86
+41,The One That Got Away,Katy Perry,0.68,0.50,0.32,80
+42,Loser,Tame Impala,0.52,0.57,0.25,81
+43,Self Aware,Temper City,0.48,0.70,0.30,80
+44,Back To Friends,sombr,0.58,0.72,0.45,88
+45,Hate That I Made You Love Me,Ariana Grande,0.65,0.70,0.44,85
+46,Dai Dai,Shakira,0.78,0.84,0.76,83
+47,Nicole Kidman,ADELA,0.55,0.62,0.38,82
+48,Babydoll,Dominic Fike,0.66,0.60,0.50,81
+49,Choosin Texas,Ella Langley,0.60,0.71,0.55,79
